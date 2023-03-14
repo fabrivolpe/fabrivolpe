@@ -3,17 +3,18 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (HTML, CSS, React, NodeJS, and PHP)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Weather API](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
+  
 [<img align="left" alt="FabrizioVolpe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="FabrizioVolpe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FabrizioVolpe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/devolpe95
-[instagram]: https://www.instagram.com/fvolpe95/
-[linkedin]: https://linkedin.com/in/fabrivolpe
+[twitter]: https://twitter.com/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
