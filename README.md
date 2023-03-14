@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (HTML, CSS, React, NodeJS, and PHP)</b>
-  - [Weather API](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Weather API](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 
 <h2> 🤳 Connect with me:</h2>
