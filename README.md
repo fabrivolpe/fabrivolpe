@@ -4,6 +4,7 @@
 
 - <b>Full Stack Web App (HTML, CSS, React, NodeJS, and PHP)</b>
   - [Weather API](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Meditation App](https://github.com/fabrivolpe/MeditationApp)
 
 
 <h2> 🤳 Connect with me:</h2>
