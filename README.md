@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App (HTML, CSS, React, NodeJS, and PHP)</b>
+- <b>Full Stack Web App (HTML, CSS, JavaScript, React, NodeJS, and PHP)</b>
   - [Weather API](https://github.com/fabrivolpe/WeatherAPI)
   - [Meditation App](https://github.com/fabrivolpe/MeditationApp)
   - [Tic Tac Toe Game](https://github.com/fabrivolpe/TicTacToeGame)
