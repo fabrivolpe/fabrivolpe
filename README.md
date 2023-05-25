@@ -6,7 +6,7 @@
   - [Weather API](https://github.com/fabrivolpe/WeatherAPI)
   - [Meditation App](https://github.com/fabrivolpe/MeditationApp)
   - [Tic Tac Toe Game](https://github.com/fabrivolpe/TicTacToeGame)
-  - [Ecommerce Website](https://onlysportsmyproject.000webhostapp.com/)
+  - [Ecommerce Website](https://github.com/fabrivolpe/ecommerce)
 
 
 <h2> 🤳 Connect with me:</h2>
