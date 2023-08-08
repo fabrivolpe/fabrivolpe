@@ -7,6 +7,9 @@
   - [Meditation App](https://github.com/fabrivolpe/MeditationApp)
   - [Tic Tac Toe Game](https://github.com/fabrivolpe/TicTacToeGame)
   - [Ecommerce Website](https://github.com/fabrivolpe/ecommerce)
+  - [Simon Says](https://github.com/fabrivolpe/SimonGame)
+  - [Drums](https://github.com/fabrivolpe/drums)
+  - [Posts](https://github.com/fabrivolpe/Posts)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -16,8 +19,8 @@
 [<img align="left" alt="FabrizioVolpe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/fvolpe95/
+[linkedin]: https://www.linkedin.com/in/fabriziovolpe/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
