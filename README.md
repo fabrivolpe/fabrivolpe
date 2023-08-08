@@ -3,10 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (HTML, CSS, JavaScript, Boostrap, React, MySQL, MongoDB, NodeJS, and PHP)</b>
+  - [Ecommerce Website](https://github.com/fabrivolpe/ecommerce)
   - [Weather API](https://github.com/fabrivolpe/WeatherAPI)
   - [Meditation App](https://github.com/fabrivolpe/MeditationApp)
   - [Tic Tac Toe Game](https://github.com/fabrivolpe/TicTacToeGame)
-  - [Ecommerce Website](https://github.com/fabrivolpe/ecommerce)
   - [Simon Says](https://github.com/fabrivolpe/SimonGame)
   - [Drums](https://github.com/fabrivolpe/drums)
   - [Posts](https://github.com/fabrivolpe/Posts)
