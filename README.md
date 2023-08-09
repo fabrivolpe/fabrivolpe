@@ -4,13 +4,12 @@
 
 - <b>Full Stack Web App (HTML, CSS, JavaScript, Boostrap, React, MySQL, MongoDB, NodeJS, and PHP)</b>
   - [Ecommerce Website](https://github.com/fabrivolpe/ecommerce)
+  - [Posts](https://github.com/fabrivolpe/Posts)
   - [Weather API](https://github.com/fabrivolpe/WeatherAPI)
   - [Meditation App](https://github.com/fabrivolpe/MeditationApp)
   - [Tic Tac Toe Game](https://github.com/fabrivolpe/TicTacToeGame)
   - [Simon Says](https://github.com/fabrivolpe/SimonGame)
   - [Drums](https://github.com/fabrivolpe/drums)
-  - [Posts](https://github.com/fabrivolpe/Posts)
-
 
 <h2> 🤳 Connect with me:</h2>
   
